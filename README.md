@@ -1,2 +1,3 @@
 # bluetooth-logger
-yarn start
+yarn start 
+init
