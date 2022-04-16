@@ -1,1 +1,2 @@
 # bluetooth-logger
+yarn start
