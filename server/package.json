@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15",
+    "node-beacon-scanner": "^0.2.2",
+    "node-gyp": "^9.0.0"
+  }
+}
